@@ -1,0 +1,13 @@
+Cat
+Dog
+Elephant
+Giraffe
+Orca
+Rattlesnake
+Hippo
+
+# Animals I Like
+
+Lion
+Tiger
+Grizzly

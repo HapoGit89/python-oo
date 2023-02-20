@@ -1,0 +1,10 @@
+Cat
+Dog
+Elephant
+Giraffe
+Orca
+Rattlesnake
+Hippo
+Lion
+Tiger
+Grizzly
